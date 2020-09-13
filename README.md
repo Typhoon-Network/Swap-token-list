@@ -1,4 +1,4 @@
-# Swap-token-list2
+# Swap-token-list
 
 
 This module contains the default token list used in DeFi Swap.
