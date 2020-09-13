@@ -16,7 +16,7 @@ function buildList(list) {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'https://dnkplacumu1sr.cloudfront.net/crypto_com_logo.svg',
+    'logoURI': 'https://www.zupimages.net/up/20/37/8l3q.png',
     'keywords': [
       'cro',
       'defi',
