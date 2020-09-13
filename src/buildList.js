@@ -18,7 +18,7 @@ function buildList(list) {
     'tags': {},
     'logoURI': 'https://www.zupimages.net/up/20/37/8l3q.png',
     'keywords': [
-      'cro',
+      'typh',
       'defi',
       'swap'
     ],
